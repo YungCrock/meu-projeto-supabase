@@ -1,0 +1,1 @@
+print("Olá, Supabase no GitHub!")
