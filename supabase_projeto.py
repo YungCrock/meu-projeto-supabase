@@ -1,1 +1,2 @@
-print("Olá, Supabase no GitHub!")
+
+print("Olá, GitHub via Colab!")
